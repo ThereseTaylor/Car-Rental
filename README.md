@@ -1,7 +1,7 @@
 
 # 🚗 Pukki Rental 🚗
 
-Welcome to **Pukki Rental**, a 2nd Year group project we created to improve car rental management systems. From managin fleet details to tracking customer rentals, Pukki Rental has everything for a smooth rental experience!
+Welcome to **Pukki Rental**, a 2nd Year group project we created to improve car rental management systems. From managing fleet details to tracking customer rentals, Pukki Rental has everything for a smooth rental experience!
 
 ---
 
